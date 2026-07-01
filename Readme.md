@@ -321,6 +321,7 @@ ping 8.8.8.8
 ```
 
 Your visualiser should immediately print the process, IPs, and ports.
+BubbleTea and Lipgloss were used for the TUI. Htop was an inspiration. 
 
 ---
 
